@@ -3,7 +3,7 @@ module github.com/khulnasoft-labs/networkpolicy
 go 1.20
 
 require (
-	github.com/khulnasoft-labs/utils v0.0.45
+	github.com/khulnasoft-labs/utils v0.0.46
 	github.com/stretchr/testify v1.8.4
 	github.com/yl2chen/cidranger v1.0.2
 )
